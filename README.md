@@ -16,6 +16,7 @@ dependencies:
   * apache2-utils
 
 On Ubuntu:
+
     sudo apt-get install g++ curl libssl-dev apache2-utils
     sudo apt-get install git-core
 
