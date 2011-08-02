@@ -61,4 +61,5 @@ then:
   1.  get a friend :)
   2.  fire up your respective web browsers
   3.  go to http://yourDomain/nodemouses/mouse.html
+  4.  enjoy !
 
