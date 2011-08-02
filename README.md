@@ -7,6 +7,7 @@ NodeMouses is a fancy web-application based one nodejs and socket.io that displa
 install all this on your server
 
 dependencies:
+
   * git-core
   * openssl 
   * libssl-dev
@@ -56,6 +57,7 @@ on your server:
     node server.js
 
 then:
+
   1.  get a friend :)
   2.  fire up your respective web browsers
   3.  go to http://yourDomain/nodemouses/mouse.html
