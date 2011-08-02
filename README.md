@@ -7,12 +7,12 @@ NodeMouses is a fancy web-application based one nodejs and socket.io that displa
 install all this on your server
 
 dependencies:
-  - git-core
-  - openssl 
-  - libssl-dev
-  - g++ 
-  - curl 
-  - apache2-utils
+  * git-core
+  * openssl 
+  * libssl-dev
+  * g++ 
+  * curl 
+  * apache2-utils
 
 On Ubuntu:
     sudo apt-get install g++ curl libssl-dev apache2-utils
@@ -56,7 +56,7 @@ on your server:
     node server.js
 
 then:
-  1. get a friend :)
-  2. fire up your respective web browsers
-  3. go to http://yourDomain/nodemouses/mouse.html
+  1.  get a friend :)
+  2.  fire up your respective web browsers
+  3.  go to http://yourDomain/nodemouses/mouse.html
 
